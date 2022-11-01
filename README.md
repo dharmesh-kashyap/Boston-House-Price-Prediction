@@ -67,7 +67,7 @@ $ pip install -r requirements.txt"
 To use this project, follow the steps above:
 ```bash
 # Running
-python application.py"
+python app.py"
 ```
 
 ## Contact
